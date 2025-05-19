@@ -48,14 +48,10 @@ This project demonstrates the implementation of a custom agent using Google's Ag
 
 Here are the screenshots demonstrating the agent's functionality:
 
-### Initial Interaction
-![Initial Interaction](screenshots/image1.png)
 
-### Name Check
-![Name Check](screenshots/image2.png)
+### Interaction wi reviews / sentiment agent
+![Gender Check](screenshots/image4.png)
 
-### Gender Check
-![Gender Check](screenshots/image1.png)
 
 ## Usage
 
